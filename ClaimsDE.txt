@@ -1,0 +1,55 @@
+
+[1] Ein Batteriesystem, aufweisend:
+eine negative Elektrode;
+eine Separatorschicht, welche neben der negativen Elektrode liegt; und
+eine positive Elektrode neben der Separatorschicht, wobei die positive Elektrode eine Gasphase und einen elektrisch leitenden Rahmen aufweist, welcher zumindest einen Benetzungskanal definiert, wobei der Benetzungskanal ausgebildet ist, einen Elektrolyt innerhalb des elektrisch leitenden Rahmens zu verteilen.
+[2] Das Batteriesystem nach Anspruch 1, wobei die positive Elektrode derart ausgebildet ist, dass in einem vollgeladenen Zustand: der elektrisch leitende Rahmen ungefähr 10% des Volumens der positiven Elektrode einnimmt;
+der Elektrolyt ungefähr 25% des Volumens der positiven Elektrode einnimmt; und
+die Gasphase ungefähr 65% des Volumens der positiven Elektrode einnimmt.
+[3] Das Batteriesystem nach Anspruch 2, wobei:
+die Gasphase eine Sauerstoffgasphase aufweist; und
+die negative Elektrode eine Form von Metall als eine aktive Komponente aufweist.
+[4] Das Batteriesystem nach Anspruch 3, wobei die positive Elektrode ausgebildet ist, dass in einem vollentladenen Zustand: der elektrisch leitende Rahmen ungefähr 10% des Volumens der positiven Elektrode einnimmt;
+der Elektrolyt ungefähr 25% des Volumens der positiven Elektrode einnimmt;
+die Gasphase ungefähr 10% des Volumens der positiven Elektrode einnimmt; und
+ein Entladeprodukt ungefähr 55% des Volumens der positiven Elektrode einnimmt. [5] Das Batteriesystem nach Anspruch 4, wobei:
+der Elektrolyt ein nichtwasserhaltiger Elektrolyt ist; und
+der mindestens eine Benetzungskanal zumindest teilweise durch ein hydrophobes Material definiert ist.
+[6] Das Batteriesystem nach Anspruch 4, ferner aufweisend:
+zumindest einen Nichtbenetzungskanal innerhalb der positiven Elektrode, wobei der mindestens eine Nichtbenetzungskanal derart ausgebildet ist, dass, wenn der mindestens eine Benetzungskanal im Wesentlichen mit Elektrolyt gefüllt ist, der mindestens eine Nichtbenetzungskanal hauptsächlich mit der Gasphase gefüllt ist.
+[7] Das Batteriesystem nach Anspruch 6, wobei der mindestens eine Nichtbenetzungskanal zumindest teilweise durch ein hydrophiles Material definiert ist.
+[8] Das Batteriesystem nach Anspruch 6, wobei:
+der mindestens eine Nichtbenetzungskanal eine erste nominale Breite aufweist; der mindestens eine Benetzungskanal eine zweite nominale Breite aufweist; und die erste nominale Beite größer ist als die zweite nominale Beite.
+[9] Das Batteriesystem nach Anspruch 6, wobei:
+der mindestens eine Nichtbenetzungskanal eine erste Gewundenheit aufweist; der mindestens eine Benetzungskanal eine zweite Gewundenheit aufweist; und die erste Gewundenheit geringer ist als die zweite Gewundenheit.
+[10] Das Batteriesystem nach Anspruch 6, wobei:
+der mindestens eine Benetzungskanal eine Vielzahl von Benetzungskanälen aufweist; und
+die Vielzahl von Benetzungskanälen ein einheitliches Muster in dem elektrisch leitenden Rahmen bilden.
+[11] Ein Verfahren zum Bilden eines Batteriesystems aufweisend:
+Bereitstellen einer negativen Elektrode;
+Bereitstellen einer Separatorschicht neben der negativen Elektrode;
+Ausbilden mindestens eines Benetzungskanals innerhalb eines elektrisch leitenden Rahmens, wobei der Benetzungskanal ausgebildet ist, einen Elektrolyt innerhalb des elektrisch leitenden Rahmens zu verteilen;
+Ausbilden einer positiven Elektrode neben der Separatorschicht mit dem elektrisch leitenden Rahmen; Bereitstellen eines Elektrolyts in der positiven Elektrode; und
+Bereitstellen einer Gasphase gemeinsam mit dem Elektrolyt in der positiven Elektrode.
+[12] Das Verfahren nach Anspruch 11, wobei das Bilden der positiven Elektrode aufweist:
+Füllen von ungefähr 10% des Volumens der positiven Elektrode mit dem elektrisch leitenden Rahmen; Füllen von nicht mehr als 25% des Volumens der positiven Elektrode mit dem Elektrolyt; und
+Füllen von ungefähr 65% des Volumens der positiven Elektrode mit der Gasphase.
+[13] Das Verfahren nach Anspruch 12, wobei:
+Bereitstellen des Elektrolyts aufweist das Bereitstellen eines nichtwasserhaltigen Elektrolyts; und
+Bereitstellen mindestens eines Benetzungskanals das Ausbilden mindestens eines Benetzungskanals mit einem hydrophoben Material aufweist.
+[14] Das Verfahren nach Anspruch 12, wobei:
+das Bilden mindestens eines Benetzungskanals das Hitzebehandeln des elektrisch leitfähigen Rahmens in einer Umgebung mit reduktivem Gas aufweist.
+[15] Das Verfahren nach Anspruch 12, ferner aufweisend:
+Ausbilden mindestens eines Nichtbenetzungskanals in der positiven Elektrode, wobei der mindestens eine Nichtbenetzungskanal ausgebildet ist, dass, wenn der mindestens eine Benetzungskanal im Wesentlichen mit Elektrolyt gefüllt ist, der mindestens eine Nichtbenetzungskanal hauptsächlich mit der Gasphase gefüllt ist.
+[16] Das Verfahren nach Anspruch 15, wobei das Ausbilden des mindestens einen Nichtbenetzungskanals aufweist: Ausbilden des mindestens einen Nichtbenetzungskanals mit einem hydrophilen Material.
+[17] Eine positive Elektrode in einem Batteriesystem, aufweisend:
+einen elektrisch leitenden Rahmen;
+einen Elektrolyt;
+mindestens einen Benetzungskanal, welcher in dem elektrisch leitenden Rahmen definiert ist,
+wobei der Benetzungskanal ausgebildet ist, den Elektrolyt in dem elektrisch leitenden Rahmen zu verteilen; und eine Gasphase.
+[18] Die positive Elektrode nach Anspruch 17, wobei die positive Elektrode derart ausgebildet ist, dass in einem vollgeladenen Zustand: der elektrisch leitende Rahmen ungefähr 10% des Volumens der positiven Elektrode einnimmt;
+der Elektrolyt ungefähr 25% des Volumens der positiven Elektrode einnimmt; und
+die Gasphase ungefähr 65% des Volumens der positiven Elektrode einnimmt.
+[19] Die positive Elektrode nach Anspruch 17, wobei der elektrisch leitende Rahmen eine Vielzahl von Nanoröhren aufweist. 
+[20] Die positive Elektrode nach Anspruch 17, ferner aufweisend:
+mindestens einen Nichtbenetzungskanal, wobei der mindestens eine Nichtbenetzungskanal derart ausgebildet ist, dass, wenn der mindestens eine Benetzungskanal im Wesentlichen mit Elektrolyt gefüllt ist, der mindestens eine Nichtbenetzungskanal hauptsächlich mit der Gasphase gefüllt ist.

@@ -2,8 +2,7 @@
 [1] Ein Batteriesystem, aufweisend:
 eine negative Elektrode;
 eine Separatorschicht, welche neben der negativen Elektrode liegt; und
-eine positive Elektrode neben der Separatorschicht, wobei die positive Elektrode eine Gasphase und einen elektrisch leitenden Rahmen aufweist, welcher zumindest einen Benetzungskanal definiert, wobei der Benetzungskanal ausgebildet ist, einen Elektrolyt innerhalb des elektrisch leitenden Rahmens zu verteilen.
-[2] Das Batteriesystem nach Anspruch 1, wobei die positive Elektrode derart ausgebildet ist, dass in einem vollgeladenen Zustand: der elektrisch leitende Rahmen ungefähr 10% des Volumens der positiven Elektrode einnimmt;
+eine positive Elektrode neben der Separatorschicht, wobei die positive Elektrode eine Gasphase und einen elektrisch leitenden Rahmen aufweist, welcher zumindest einen Benetzungskanal definiert, wobei der Benetzungskanal ausgebildet ist, einen Elektrolyt innerhalb des elektrisch leitenden Rahmens zu verteilen, wobei die positive Elektrode derart ausgebildet ist, dass in einem vollgeladenen Zustand: der elektrisch leitende Rahmen ungefähr 10% des Volumens der positiven Elektrode einnimmt;
 der Elektrolyt ungefähr 25% des Volumens der positiven Elektrode einnimmt; und
 die Gasphase ungefähr 65% des Volumens der positiven Elektrode einnimmt.
 [3] Das Batteriesystem nach Anspruch 2, wobei:
